@@ -1,2 +1,2 @@
 include:
-  - board: nice_nano_v2
+  - board: planck_rev6
