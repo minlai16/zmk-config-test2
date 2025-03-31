@@ -19,5 +19,5 @@
                 &trans   &kp LCTRL &kp LALT &kp LGUI &mo 1 &trans &kp SPACE &mo 2 &kp LEFT &kp DOWN &kp UP &kp RIGHT
             >;
         };
-    };
+    }
 };
